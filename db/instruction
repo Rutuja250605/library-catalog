@@ -1,0 +1,9 @@
+//  -v /Users/prashantrm/Documents/Claude-work/bus-tracking-app/mysql-data:/var/lib/mysql \
+  //-e MYSQL_ROOT_PASSWORD=my-secret-pw \
+  //-p 3307:3306 \
+  //-d mysql:oraclelinux9
+//docker rm -f library_db
+
+//docker run --name library_db -v "C:\Users\bhujb\OneDrive\Desktop\Library catalog\MySQL db":/var/lib/mysql -e MYSQL_ROOT_PASSWORD=my-secret-pw -p 3307:3306 -d mysql:oraclelinux9
+
+  
